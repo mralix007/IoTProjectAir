@@ -1,2 +1,3 @@
-# IoTProjectAir
- An IoT air pollution detection project uses sensors to monitor air quality, sending mobile alerts when pollution levels exceed safe limits. This helps raise awareness and encourages timely action for a healthier environment.
+# IoTProjectAirPollutionDetection
+An IoT-based air pollution detection project is a cutting-edge system designed to monitor the quality of the air in a particular area. This setup includes specialized sensors that continually measure various air pollutants like dust and harmful gases. When these sensors detect pollution levels surpassing predefined limits, the system automatically sends alerts to mobile devices. This innovative project serves as a vital tool in raising awareness about air quality concerns and enables people to take necessary precautions when pollution levels become hazardous, ultimately contributing to a healthier and more environmentally conscious society.
+This Project was done completely using Arduino and Mq135 Sensors along with Buzzer and Led
